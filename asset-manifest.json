@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rudra-chat/static/css/main.1ef6aead.css",
-    "main.js": "/rudra-chat/static/js/main.8498a10b.js",
-    "static/js/146.5aab618c.chunk.js": "/rudra-chat/static/js/146.5aab618c.chunk.js",
-    "index.html": "/rudra-chat/index.html",
-    "main.1ef6aead.css.map": "/rudra-chat/static/css/main.1ef6aead.css.map",
-    "main.8498a10b.js.map": "/rudra-chat/static/js/main.8498a10b.js.map",
-    "146.5aab618c.chunk.js.map": "/rudra-chat/static/js/146.5aab618c.chunk.js.map"
+    "main.css": "/static/css/main.275fd10b.css",
+    "main.js": "/static/js/main.8f65a567.js",
+    "static/js/488.097aab5a.chunk.js": "/static/js/488.097aab5a.chunk.js",
+    "index.html": "/index.html",
+    "main.275fd10b.css.map": "/static/css/main.275fd10b.css.map",
+    "main.8f65a567.js.map": "/static/js/main.8f65a567.js.map",
+    "488.097aab5a.chunk.js.map": "/static/js/488.097aab5a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ef6aead.css",
-    "static/js/main.8498a10b.js"
+    "static/css/main.275fd10b.css",
+    "static/js/main.8f65a567.js"
   ]
 }
